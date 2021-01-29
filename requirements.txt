@@ -1,0 +1,5 @@
+pip install discord
+pip install datetime
+pip install asyncio
+pip install selenium
+pip install configparser
